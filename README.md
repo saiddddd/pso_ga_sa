@@ -1,1 +1,1 @@
-![Animasi Algoritma Genetika](Genetic_Algorithm_animation.gif)
+![Animasi Contour Algoritma Genetika](Genetic Algorithm_contour_animation.gif)
