@@ -1,2 +1,1 @@
-# pso_ga_sa
-![genetic Algorithm](Genetic_Algorithm_animation.gif)
+![Animasi Algoritma Genetika](Genetic_Algorithm_animation.gif)
